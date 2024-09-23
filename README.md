@@ -1,6 +1,8 @@
 # Recommendation Summary for Price Increase at Toman Bike Shop
 
 ---
+![Power BI Dashboard](https://github.com/GabrielBrionesL/toman_bike_share/blob/main/dashboard.png)
+---
 
 ## Key Insights from Data Analysis:
 
