@@ -61,7 +61,7 @@ This methodology allowed us to calculate key metrics like revenue, profit, and c
 - **Profit Margin**: Expected to remain stable or increase with the new price point.
 
 ## Further Considerations:
-While this analysis provides clear recommendations for a moderate price increase, there are additional factors that could be explored with a data science project:
+While this analysis provides clear recommendations for a moderate price increase, there are additional factors that could be explored through a data science lens:
 - **Price Elasticity Modeling**: Using more advanced techniques like regression analysis or machine learning to build a model that predicts customer response to price changes. This could help identify the optimal price point that maximizes revenue while minimizing rider churn.
 - **Customer Segmentation**: A clustering algorithm could be used to segment riders based on price sensitivity, ride frequency, and other behaviors. This would allow for more targeted pricing strategies for different customer groups (e.g., registered vs. casual riders).
 - **Time Series Forecasting**: A more advanced time series forecasting model could be used to predict future rider volumes and revenue based on historical trends, seasonality, and external factors. This would help refine the timing and magnitude of future price changes.
